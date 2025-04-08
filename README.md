@@ -25,5 +25,5 @@ This repository contains a simple and clean Docker Compose setup for running Wor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/reza-ameri/wordpress-docker.git
+   git clone https://github.com/reza-ameri/wordpress_docker-compose.yml
    cd wordpress-docker
